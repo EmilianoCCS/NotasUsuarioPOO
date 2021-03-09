@@ -1,0 +1,22 @@
+﻿<Controls:MetroWindow x:Class="TelasEx.Ranking"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="Ranking" Height="314.953" Width="684.504">
+    <Grid Background="#FFB2D8EA" Margin="0,0,-8,1">
+        <Grid.Effect>
+            <DropShadowEffect/>
+        </Grid.Effect>
+        <GroupBox x:Name="groupBox" Header="Ranking p/Nota" HorizontalAlignment="Left" Margin="22,24,0,0" VerticalAlignment="Top" Height="211" Width="303" Background="#FFA8FBFB">
+            <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" VerticalAlignment="Top" Height="179" Margin="0,0,0,-7" Width="296" SelectionChanged="dataGrid_SelectionChanged_1"/>
+        </GroupBox>
+        
+        <Button x:Name="button" Content="Voltar" HorizontalAlignment="Left" Margin="22,240,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <GroupBox x:Name="groupBox_Copy" Header="Comentários" HorizontalAlignment="Left" Margin="362,24,0,0" VerticalAlignment="Top" Height="211" Width="303" Background="#FFA8FBFB">
+            <DataGrid x:Name="dgCom" HorizontalAlignment="Left" VerticalAlignment="Top" Height="179" Margin="0,0,0,-7" Width="296"/>
+        </GroupBox>
+    </Grid>
+</Controls:MetroWindow>

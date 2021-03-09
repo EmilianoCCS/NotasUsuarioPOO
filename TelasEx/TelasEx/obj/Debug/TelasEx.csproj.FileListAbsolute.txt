@@ -1,0 +1,351 @@
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\Nota.g.cs
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\App.g.cs
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\Ranking.baml
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\Nota.baml
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+E:\Desenvolvimento de Software(Binho e Myrna)\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\aluno\Desktop\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\App.g.cs
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\Ranking.baml
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.CoreCompileInputs.cache
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+D:\P RO J E T O F I N A L\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\aluno\Desktop\Projeto final\Versão 1.1 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\App.g.cs
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\Ranking.baml
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+E:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\App.g.cs
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\Ranking.baml
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+F:\P RO J E T O F I N A L\Versão 1.2\Versão 1.2 (6-11)\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+F:\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+F:\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+F:\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.3\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\aluno\Desktop\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\aluno\Downloads\P RO J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.CoreCompileInputs.cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.dll
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.pdb
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.xml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.baml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\Parca\Downloads\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.CoreCompileInputs.cache
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.dll
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\System.Windows.Interactivity.dll
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.pdb
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.xml
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.g.cs
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.baml
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.baml
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+E:\P R O J E T O F I N A L\P R O J E T O F I N A L\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.dll
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.pdb
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.xml
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.baml
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.CoreCompileInputs.cache
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\Parca\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.dll
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.pdb
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.xml
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.baml
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.g.cs
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.baml
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+C:\Users\Matheus Assis\Desktop\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.dll
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\System.Windows.Interactivity.dll
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.pdb
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.xml
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.baml
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.g.cs
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.baml
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+M:\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.dll
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\System.Windows.Interactivity.dll
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.pdb
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.xml
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csprojResolveAssemblyReference.cache
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.baml
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.g.cs
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.baml
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.Cache
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.CoreCompileInputs.cache
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+D:\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe.config
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.exe
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\TelasEx.pdb
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.dll
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\System.Windows.Interactivity.dll
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.pdb
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\bin\Debug\MahApps.Metro.xml
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csprojAssemblyReference.cache
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.baml
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.baml
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\AvaliacaoUser.g.cs
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.g.cs
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\Ranking.g.cs
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.g.cs
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.cache
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx_MarkupCompile.lref
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\App.baml
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\MainWindow.baml
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.g.resources
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.Properties.Resources.resources
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.GenerateResource.cache
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.CoreCompileInputs.cache
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.csproj.CopyComplete
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.exe
+D:\Backup 03-09-19\E T E C\Versão 1.4 - Cópia\TelasEx\TelasEx\obj\Debug\TelasEx.pdb
